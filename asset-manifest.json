@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https.//arunMuruganDev.github.io/react-app/static/css/main.dddb42d3.css",
+    "main.js": "/https.//arunMuruganDev.github.io/react-app/static/js/main.fd550d1d.js",
+    "index.html": "/https.//arunMuruganDev.github.io/react-app/index.html",
+    "main.dddb42d3.css.map": "/https.//arunMuruganDev.github.io/react-app/static/css/main.dddb42d3.css.map",
+    "main.fd550d1d.js.map": "/https.//arunMuruganDev.github.io/react-app/static/js/main.fd550d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddb42d3.css",
+    "static/js/main.fd550d1d.js"
+  ]
+}
